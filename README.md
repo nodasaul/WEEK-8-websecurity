@@ -26,7 +26,7 @@ Vulnerability #1: SQL Injection (SQLi)
 
 Vulnerability #2: Session Hijacking/Fixation
 I can log in in one browser and get the session id which can be use by pass login process in another browser. the session can be hijacked and steal users information.
-![session hijacking fixation](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/SessionHijackingBlueSite.gif)
+![session hijacking fixation](https://github.com/nodasaul/WEEK-8-websecurity/blob/master/gif/BLUE2.gif)
 
 
 
@@ -34,10 +34,10 @@ I can log in in one browser and get the session id which can be use by pass logi
 
 Vulnerability #1: Username Enumeration
 ## Green
-![username enumeration](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q1.gif)
+![username enumeration](https://github.com/nodasaul/WEEK-8-websecurity/blob/master/gif/green.gif)
 
 Vulnerability #2: Cross-Site Scripting (XSS)
-![cross-site scripting](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q4_XSS.gif)
+![cross-site scripting](https://github.com/nodasaul/WEEK-8-websecurity/blob/master/gif/green2.gif)
 
 
 
@@ -46,10 +46,10 @@ Vulnerability #2: Cross-Site Scripting (XSS)
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 ## Red
-![insecure direct object reference idor](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q2.gif)
+![insecure direct object reference idor](https://github.com/nodasaul/WEEK-8-websecurity/blob/master/gif/red.gif)
 
 Vulnerability #2: cross-site request forgery csrf
-![cross-site request forgery csrf](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/CrossSiteRequestForgeryRed.gif)
+![cross-site request forgery csrf](https://github.com/nodasaul/WEEK-8-websecurity/blob/master/gif/red2.gif)
 
 
 ## Notes
@@ -59,7 +59,7 @@ Describe any challenges encountered while doing the work
 
 
 ## License
-  Copyright 2017 Mohamed Sondo
+  Copyright 2017 SAUL NODA
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

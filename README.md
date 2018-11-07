@@ -21,7 +21,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: SQL Injection (SQLi)
 ## Blue
 
-![sqli]https://github.com/nodasaul/WEEK-8-websecurity/edit/master/GIF/blue.gif)
+![sqli]https://github.com/nodasaul/WEEK-8-websecurity/blob/master/gif/BLUE.gif
 
 
 Vulnerability #2: Session Hijacking/Fixation
